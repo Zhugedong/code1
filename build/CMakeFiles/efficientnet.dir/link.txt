@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/efficientnet.dir/efficientnet.cpp.o -o efficientnet   -L/usr/local/cuda/lib64  -L/home/lizhixue/tools/TensorRT-8.6.0.12/lib  -Wl,-rpath,/usr/local/cuda/lib64:/home/lizhixue/tools/TensorRT-8.6.0.12/lib -lnvinfer -lcudart 
